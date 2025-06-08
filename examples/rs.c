@@ -4,10 +4,10 @@
 #include <time.h>
 
 #define LIST_C
-#include "../../raylist.h"
+#include "../third_party/raylist.h"
 
 #define FUTURE_C
-#include "future.h"
+#include "../future.h"
 
 #define END 10
 #define BUFFER_SIZE 5
